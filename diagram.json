@@ -6,14 +6,14 @@
     {
       "type": "wokwi-arduino-nano",
       "id": "nano",
-      "top": 40,
-      "left": 30
+      "top": 250,
+      "left": 55
     },
     {
       "type": "wokwi-lcd1602",
       "id": "lcd",
-      "top": 30,
-      "left": 300,
+      "top": 35,
+      "left": 135,
       "attrs": {
         "pins": "i2c",
         "i2cAddress": "0x27",
@@ -24,8 +24,8 @@
     {
       "type": "wokwi-pushbutton",
       "id": "button",
-      "top": 180,
-      "left": 330,
+      "top": 185,
+      "left": 205,
       "attrs": {
         "color": "green",
         "label": "DRINK"
@@ -34,8 +34,8 @@
     {
       "type": "wokwi-buzzer",
       "id": "buzzer",
-      "top": 190,
-      "left": 100,
+      "top": 205,
+      "left": 365,
       "attrs": {
         "volume": "0.1"
       }
