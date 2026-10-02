@@ -2,6 +2,14 @@
 
 A simple Arduino-based water reminder with a 16x2 I2C LCD, physical drink button, and buzzer.
 
+## Wokwi Simulation
+
+Run the complete virtual version here:
+
+https://wokwi.com/projects/476744774828293121
+
+The simulation lets you test the LCD, drink button, buzzer, and reminder logic before building the physical prototype.
+
 ## Hardware
 
 - Arduino Nano
