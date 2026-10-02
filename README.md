@@ -60,4 +60,5 @@ This project is designed to be built on a breadboard first. No soldering is requ
 
 
 Wokwi prototype of my Arduino water reminder.
+<img width="1191" height="683" alt="Screenshot 2026-10-02 at 6 17 26 PM 2" src="https://github.com/user-attachments/assets/0152430c-7c97-41b9-9ea8-a0d2f53f60d0" />
 
