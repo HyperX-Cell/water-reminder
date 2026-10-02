@@ -56,3 +56,8 @@ This project is designed to be built on a breadboard first. No soldering is requ
 - Adjustable reminder interval
 - LED reminder
 - Battery power
+
+
+
+Wokwi prototype of my Arduino water reminder.
+
