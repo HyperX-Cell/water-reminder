@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/water_reminder.ino.hex"
+elf = "build/water_reminder.ino.elf"
